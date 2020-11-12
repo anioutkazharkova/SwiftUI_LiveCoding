@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ic_disclosure.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

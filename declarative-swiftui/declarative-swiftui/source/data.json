@@ -1,0 +1,47 @@
+{
+ "items":
+ [
+  {
+    "title": "СберПрайм",
+    "subtitle": "Платёж 9 июля",
+    "description": "199 ₽ в месяц",
+    "type": "PRIME"
+  },
+  {
+    "title": "Переводы",
+    "subtitle": "Автопродление 21 августа",
+    "description": "199 ₽ в месяц",
+    "type": "TRANSACTION"
+  },
+  {
+    "title": "СберПрайм",
+    "subtitle": "Платёж 9 мая",
+    "description": "Оформление подписки",
+    "type": "PRIME"
+  },
+  {
+    "title": "Перевод",
+    "subtitle": "Перевод маме 12 августа",
+    "description": "20000 ₽",
+    "type": "TRANSACTION"
+  },
+  {
+    "title": "Пополнение",
+    "subtitle": "Пополнение со сберкнижки счёта 6 августа",
+    "description": "40000 ₽",
+    "type": "TRANSACTION"
+  },
+   {
+    "title": "Okko",
+    "subtitle": "Покупка фильма",
+    "description": "Покупка блокбастера",
+    "type": "PRIME"
+  },
+  {
+    "title": "Оплата КУ",
+    "subtitle": "Оплата за электроснабжение, горячую воду, холодную воду, электричество и газ",
+    "description": "8000 ₽",
+    "type": "TRANSACTION"
+  }
+]
+}
