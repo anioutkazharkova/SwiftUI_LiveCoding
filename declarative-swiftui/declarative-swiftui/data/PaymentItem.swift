@@ -7,12 +7,12 @@
 
 import Foundation
 
-enum PaymentType: String, Codable {
+enum PaymentType: String, Codable,Hashable {
     case prime = "PRIME"
     case transaction = "TRANSACTION"
 }
 
-struct PaymentItem:Codable {
+struct PaymentItem:Codable, Hashable {
     let title: String
     let subtitle: String
     let description: String
