@@ -14,6 +14,7 @@
 		1D5B7745255D2A0B00128733 /* LargeText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D5B7744255D2A0B00128733 /* LargeText.swift */; };
 		1D5B7748255D2AF000128733 /* SmallText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D5B7747255D2AF000128733 /* SmallText.swift */; };
 		1D5B774B255D2C6800128733 /* PaymentItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D5B774A255D2C6800128733 /* PaymentItemView.swift */; };
+		1D5B774E255D350400128733 /* InfoButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D5B774D255D350400128733 /* InfoButtonView.swift */; };
 		1D805E3F255CDA3C001958A4 /* declarative_swiftuiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D805E3E255CDA3C001958A4 /* declarative_swiftuiApp.swift */; };
 		1D805E41255CDA3C001958A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D805E40255CDA3C001958A4 /* ContentView.swift */; };
 		1D805E43255CDA3E001958A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D805E42255CDA3E001958A4 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 		1D5B7744255D2A0B00128733 /* LargeText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargeText.swift; sourceTree = "<group>"; };
 		1D5B7747255D2AF000128733 /* SmallText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallText.swift; sourceTree = "<group>"; };
 		1D5B774A255D2C6800128733 /* PaymentItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentItemView.swift; sourceTree = "<group>"; };
+		1D5B774D255D350400128733 /* InfoButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoButtonView.swift; sourceTree = "<group>"; };
 		1D805E3B255CDA3C001958A4 /* declarative-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "declarative-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D805E3E255CDA3C001958A4 /* declarative_swiftuiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = declarative_swiftuiApp.swift; sourceTree = "<group>"; };
 		1D805E40255CDA3C001958A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				1D5B7744255D2A0B00128733 /* LargeText.swift */,
 				1D5B7747255D2AF000128733 /* SmallText.swift */,
 				1D5B774A255D2C6800128733 /* PaymentItemView.swift */,
+				1D5B774D255D350400128733 /* InfoButtonView.swift */,
 			);
 			path = "declarative-swiftui";
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				1D5B773F255D271D00128733 /* SegmentButton.swift in Sources */,
 				1D805E65255CE4F0001958A4 /* PaymentList.swift in Sources */,
 				1D5B774B255D2C6800128733 /* PaymentItemView.swift in Sources */,
+				1D5B774E255D350400128733 /* InfoButtonView.swift in Sources */,
 				1D5B773C255D227E00128733 /* SettingsView.swift in Sources */,
 				1D805E41255CDA3C001958A4 /* ContentView.swift in Sources */,
 				1D805E5E255CE223001958A4 /* PaymentItem.swift in Sources */,

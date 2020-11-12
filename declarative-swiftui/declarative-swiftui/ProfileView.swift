@@ -23,6 +23,13 @@ struct ProfileView: View {
                    }
             }.background(Color.gray)
             }
+            VStack (alignment: .leading, spacing:20) {
+            LargeText(text: "Тарифы и лимиты")
+            SmallText(text: "Для операций в Сбербанк Онлайн")
+            InfoButtonView(image: "limit", title: "Изменить суточный лимит", subtitle: "на платежи и перевод")
+            InfoButtonView(image: "transfer", title: "Переводы без комиссии", subtitle: "показать остаток в этом месяце")
+            InfoButtonView(image: "info", title: "Информация о тарифах и лимитах", subtitle: "")
+            }.padding(EdgeInsets(top: 20, leading: 0, bottom: 20, trailing: 20))
         }
     }
 }
